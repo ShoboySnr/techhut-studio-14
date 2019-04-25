@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fcd238b97aa1382de297",
+    "revision": "2d0b03d60d774a751c99",
     "url": "/techhut-studio-14/static/css/main.5ad45a6b.chunk.css"
   },
   {
-    "revision": "fcd238b97aa1382de297",
-    "url": "/techhut-studio-14/static/js/main.b3624756.chunk.js"
+    "revision": "2d0b03d60d774a751c99",
+    "url": "/techhut-studio-14/static/js/main.9b2be8ac.chunk.js"
   },
   {
     "revision": "de8a66183f92ddde5c6e",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/techhut-studio-14/static/media/student-writting.5a0ffb99.png"
   },
   {
-    "revision": "e4d0bd25713d6b9683ac0ae107926ef5",
+    "revision": "5b6dd8a1b5d724d358094ea509f95773",
     "url": "/techhut-studio-14/index.html"
   }
 ];
