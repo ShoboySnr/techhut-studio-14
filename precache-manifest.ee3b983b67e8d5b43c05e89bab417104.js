@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/techhut-studio-14/static/js/2.e4a526a6.chunk.js"
   },
   {
-    "revision": "22bf74a23aa7bef95ff75b155bec6537",
-    "url": "/techhut-studio-14/static/media/arrow-right.22bf74a2.svg"
-  },
-  {
     "revision": "b3cf76197054583f23d083fde9f27b75",
     "url": "/techhut-studio-14/static/media/arrow-left.b3cf7619.svg"
+  },
+  {
+    "revision": "22bf74a23aa7bef95ff75b155bec6537",
+    "url": "/techhut-studio-14/static/media/arrow-right.22bf74a2.svg"
   },
   {
     "revision": "5db8bbfb6a548babd3c88584bc301dd2",
